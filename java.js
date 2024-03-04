@@ -5,7 +5,6 @@ Steps :
 3.Each variable should equal a specfic number to be use as the code
 4.Write another varibale that will have the first meassage and also the sums of the 3 arithmetic operations
 5.Display Message in Alert or on html page
-
 */
 
 // Intial Message is Given before sum of arithmetic operations are added
